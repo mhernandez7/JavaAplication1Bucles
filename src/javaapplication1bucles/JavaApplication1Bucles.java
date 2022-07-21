@@ -27,10 +27,9 @@ public class JavaApplication1Bucles {
         CantNumber1 = read.nextFloat();
        
         n1.setCantNumber1(CantNumber1);
-        n1.resultSuma();
+      
         
-        
-        System.out.println("el resultado de la suma es: "+n1.getSuma());
+        System.out.println("el resultado de la suma es: "+n1.resultSuma());
         
         
     }
